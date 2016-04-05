@@ -18,7 +18,6 @@ google.maps.event.addListener(map, 'center_changed', function() {
     userPos = map.getCenter();
 });
 
-
 //http://nb.translink.ca/nextbus.ashx?cp=gsr"%"2F050
 //http://nb.translink.ca/nextbus.ashx?cp=gsr%2F099
 
